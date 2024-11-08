@@ -6,9 +6,9 @@ To run the server open command line run boutiqueSErver.py and enter the appropra
 Then run the client on another window in command line, by running boutiqueClient.py.
 
 Libraries included:
--sys
--json
--socket
--sqlite3
--threading
--datetime
+sys
+json
+socket
+sqlite3
+threading
+datetime
