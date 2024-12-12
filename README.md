@@ -12,3 +12,5 @@ socket
 sqlite3
 threading
 datetime
+PyQt5.QtWidgets
+
